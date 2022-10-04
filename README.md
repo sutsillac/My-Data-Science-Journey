@@ -3,7 +3,7 @@ This is my first repository to track my development as I transition into data sc
 
 
 
-## Project 1: 
+Project 1: 
 EMPLOYEE ATTRITION CONTROL
 
 CASE STUDY
@@ -26,8 +26,7 @@ Use your analytics skills to answer the following questions :
 dataset: Takenmind pyhton analytics
 
 
-## PROJECT 2: Hici Case Study
-
+## Project 2:
 HiCi Case Study 
 
 HiCi Ltd is a local food export company. HiCi Ltd is expanding to the European 
@@ -37,11 +36,14 @@ hurdles to be able to penetrate the EU market. The hurdles are border rejection,
 mass destruction of substandard product. You have been employed by HiCi Ltd as a Data 
 Analyst and provided with raw data from EU Food Safety Standard Agency Portal to help 
 determine:
-
 a. EU member country that reports the highest number of food rejection
+
 b. The most rejected food
+
 c. The country of origin of the most rejected food?
+
 d. The most action taken against food exported to the EU?
+
 e. The most reported origin (country) food export?
 
 You are to provide a comprehensive report on the above determinants. To prepare the 
