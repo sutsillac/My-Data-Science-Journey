@@ -23,7 +23,7 @@ Use your analytics skills to answer the following questions :
 2. Which employees are prone to leave next.
 3. Recommendations
 
-dataset: Takenmind pyhton analytics
+dataset: Takenmind python analytics
 
 
 ## Project 2: 
